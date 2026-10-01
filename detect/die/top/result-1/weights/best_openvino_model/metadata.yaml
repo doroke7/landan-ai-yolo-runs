@@ -1,6 +1,6 @@
-description: Ultralytics YOLO26n model trained on cfg\detect\dice\top-data.yaml
+description: Ultralytics YOLO26n model trained on cfg\detect\die\top-data.yaml
 author: Ultralytics
-date: '2026-09-17T10:40:40.474288'
+date: '2026-10-01T14:07:18.123376'
 version: 8.4.41
 license: AGPL-3.0 License (https://ultralytics.com/license)
 docs: https://docs.ultralytics.com
